@@ -1,3 +1,2 @@
-# Arrays
- >> 2D Array -DS
- >> Minimum Swaps 2
+# InPrepK
+>>> section has solved problems from InPrepK section in HackerRank
