@@ -17,6 +17,7 @@ public class Solution {
             d++;
         }
         return new_array;
+        // For direct Printing
         //System.out.print(a[(d % req_variable)] + " " + a[(d + 2) % req_variable]+ " " +a[(d + 3) % req_variable]+ " " +a[(d + 4) % req_variable]+ " " +a[(d + 5) % req_variable]);
         
     }
