@@ -1,3 +1,4 @@
+//This problem can also be solved by bubble sort 
 #include <bits/stdc++.h>
 
 using namespace std;
